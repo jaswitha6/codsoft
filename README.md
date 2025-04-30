@@ -22,3 +22,20 @@ Demo video coming soon!
 ---
 
 #codsoft #AIinternship #chatbot #python
+---
+
+## 🕹️ Task 2: Tic-Tac-Toe Game (Player vs Bot)
+
+This is a simple terminal-based Tic-Tac-Toe game in Python where:
+- You play as 'X'
+- Bot plays as 'O'
+- Bot randomly selects empty spots
+
+### ▶️ How to Run:
+```bash
+python tic_tac_toe_bot.py
+Ask 2 friends to try beating the bot! 🎮
+
+Demo video coming soon...
+
+#codsoft #python #AIinternship #gamedev
