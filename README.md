@@ -32,10 +32,22 @@ This is a simple terminal-based Tic-Tac-Toe game in Python where:
 - Bot randomly selects empty spots
 
 ### ▶️ How to Run:
-```bash
+
 python tic_tac_toe_bot.py
 Ask 2 friends to try beating the bot! 🎮
 
 Demo video coming soon...
 
 #codsoft #python #AIinternship #gamedev
+
+---
+
+## 📷 Task 3B: Face Detection (OpenCV)
+
+This Python script detects faces in an image using OpenCV’s Haar Cascade:
+
+
+python face_detector.py
+Places green rectangles around any faces found in test.jpg.
+
+No external model downloads or build tools required—just OpenCV.
